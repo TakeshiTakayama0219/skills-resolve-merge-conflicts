@@ -1,3 +1,5 @@
-# References
+## Reference List
 
-* octocat 1 😈
+- Prof. John Doe (University of AI)
+- Dr. Jane Smith (OpenAI Labs)
+
